@@ -1,0 +1,26 @@
+.link-btn {
+  border-radius: 8px;
+  padding: 8px 14px;
+  color: blueviolet;
+  cursor: pointer;
+  z-index: 99999;
+}
+.special-text {
+  color: blueviolet;
+}
+.link-btn:hover {
+  background-color: #ff6e40;
+  color: white !important;
+}
+.link-active {
+  background-color: #ff6e40;
+  color: white;
+}
+.link-active:hover {
+  background-color: #fa5928;
+  color: white;
+}
+
+.margin-left {
+  margin-left: 500px !important;
+}
